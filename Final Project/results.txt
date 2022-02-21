@@ -1,0 +1,12 @@
+Ibrahim And Odai results
+model parameters :
+kernel= linear, Number of points= 3, Radius= 24
+
+Accuracy : 68.57%
+
+Confusion matrix:
+             male  female
+male       16    20
+female   5    31
+
+Time took to train SVM : 00:19:26
